@@ -1,18 +1,22 @@
 # PowerBI
 This section includes visualization projects where I used PowerBI 
 
-1- Coffee House Analysis 
+1- Maple Drapery & Carpet Price Breakdow
+
+![image](https://github.com/aykutcura/PowerBI/assets/137841626/c4dd2689-45f6-40bc-b03c-2cfb3e845415)
+
+2- Coffee House Analysis 
 
 ![image](https://github.com/aykutcura/PowerBI/assets/137841626/bb36c90f-c3f3-4a3a-81a9-1ca3f6e84b08)
 
-2- Car Rental Shop Analysis (2 pages )
+3- Car Rental Shop Analysis (2 pages )
 
 ![image](https://github.com/aykutcura/PowerBI/assets/137841626/40cae4ff-8cda-446d-8c8d-7571ad06d84e)
 
 
 ![image](https://github.com/aykutcura/PowerBI/assets/137841626/2d6d8455-76e7-4801-bded-5247d9f9aaef)
 
-3- Travel Company Expenses Analysis
+4- Travel Company Expenses Analysis
 
 ![image](https://github.com/aykutcura/PowerBI/assets/137841626/48c3a2c5-5923-44e2-aded-e2b22db768b9)
 
