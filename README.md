@@ -1,9 +1,9 @@
 # PowerBI
 This section includes visualization projects where I used PowerBI 
 
-1- Maple Drapery & Carpet Price Breakdow
+1- Maple Drapery & Carpet Price Breakdown
 
-![image](https://github.com/aykutcura/PowerBI/assets/137841626/c4dd2689-45f6-40bc-b03c-2cfb3e845415)
+![image](https://github.com/aykutcura/PowerBI/assets/137841626/1b92eb42-2f39-4b06-92d4-3e58a551a217)
 
 2- Coffee House Analysis 
 
